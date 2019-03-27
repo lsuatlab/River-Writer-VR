@@ -10,6 +10,8 @@ This project also has applications in the larger context of learning technologie
 ### Video
 [![River Writer VR Video](https://img.youtube.com/vi/C9jkidnBwBA/0.jpg)](https://www.youtube.com/watch?v=C9jkidnBwBA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9jkidnBwBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Authors
 **Vincent A. Cellucci** is a writer and the College of Art + Design’s Communication across the Curriculum Studio Coordinator at Louisiana State University. He specializes in poetry, 3D scanning and printing, digital documentation, portfolio development, and teaching and writing in the art and design disciplines. Vincent received his MFA from Louisiana State University and he attended Loyola University New Orleans to earn his Bachelor's degree in English Writing with a background in studio arts by cross-enrolling at Tulane University. 
 
