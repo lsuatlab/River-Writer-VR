@@ -17,9 +17,9 @@ Email: <vcellu1@lsu.edu> \| Website: <http://www.vincentacellucci.com>
 
 **Frederick “Derick” Ostrenko**, is a media artist and Associate Professor at Louisiana State University (LSU). He holds a joint-appointment in the Digital Art concentration at the School of Art and the Cultural Computing research group at the Center for Computation and Technology (CCT). Derick creates physical and virtual systems that examine the intersections of media, culture, and technology. He employs custom hardware and software that use various interfaces such as mobile applications, brain waves, generative visualizations, video processing, animation, and games. His research focuses on pushing art and technology to reveal hidden networks between people by creating structures for innovative forms of expression and discovery. Derick received his MFA in Digital+Media from the Rhode Island School of Design.
 
-Email: dostrenko@lsu.edu \| Website: http://frederickostrenko.com
+Email: <dostrenko@lsu.edu> \| Website: <http://frederickostrenko.com>
 
 **Marc Aubanel**, Director of DMAE at Louisiana State University, is a 15 year veteran of video game development and has worked on multiple titles such as FIFA Soccer, Need for Speed Underground and Marvel Nemesis.
 
-Email: maubanel@cct.lsu.edu \| Website: http://marcaubanel.com
+Email: <maubanel@cct.lsu.edu> \| Website: <http://marcaubanel.com>
 
