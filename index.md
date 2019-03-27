@@ -8,8 +8,6 @@ This application and level was created by Vincent Cellucci with assistance from 
 This project also has applications in the larger context of learning technologies and museum studies and pursues the following research questions: 1) Does the uncurated VR move us away from linear presentations of art and authority and bring with it advantages for new experiences with language? 2) How could the changes these technologies affect in the presentation of fine arts and electronic lieterature be considered and applied to guide the creation of the traditional media, art objects contained within? 3) How can these technologies be used as teaching tools within creative disciplines?
 
 ### Video
-[![River Writer VR Video](https://img.youtube.com/vi/C9jkidnBwBA/0.jpg)](https://www.youtube.com/watch?v=C9jkidnBwBA)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9jkidnBwBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Authors
