@@ -1,5 +1,3 @@
-# River Writer VR
-
 ### Short Description
 River Writer is a proof of concept for a virtual-reality based interactive poetry-writing application utilizing a recurrent neural network to generate a literal stream (of-consciousness). This application, created in Unreal Engine, enables users to fish 3D text to syntactically compose couplets from found text in a custom-generated landscape. 
 
