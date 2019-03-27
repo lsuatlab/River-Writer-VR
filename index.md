@@ -13,7 +13,7 @@ This project also has applications in the larger context of learning technologie
 ### Authors
 **Vincent A. Cellucci** is a writer and the College of Art + Design’s Communication across the Curriculum Studio Coordinator at Louisiana State University. He specializes in poetry, 3D scanning and printing, digital documentation, portfolio development, and teaching and writing in the art and design disciplines. Vincent received his MFA from Louisiana State University and he attended Loyola University New Orleans to earn his Bachelor's degree in English Writing with a background in studio arts by cross-enrolling at Tulane University. 
 
-Email: vcellu1@lsu.edu \| Website: http://www.vincentacellucci.com
+Email: <vcellu1@lsu.edu> \| Website: <http://www.vincentacellucci.com>
 
 **Frederick “Derick” Ostrenko**, is a media artist and Associate Professor at Louisiana State University (LSU). He holds a joint-appointment in the Digital Art concentration at the School of Art and the Cultural Computing research group at the Center for Computation and Technology (CCT). Derick creates physical and virtual systems that examine the intersections of media, culture, and technology. He employs custom hardware and software that use various interfaces such as mobile applications, brain waves, generative visualizations, video processing, animation, and games. His research focuses on pushing art and technology to reveal hidden networks between people by creating structures for innovative forms of expression and discovery. Derick received his MFA in Digital+Media from the Rhode Island School of Design.
 
